@@ -12,6 +12,7 @@ http://innovating-technology.blogspot.com/2013/04/mysql-hadoop-applier-part-2.ht
 http://innovating-technology.blogspot.com/2013/04/mysql-hadoop-applier-part-2.html
 https://blogs.oracle.com/mysql/announcing-the-mysql-applier-for-apache-hadoop
 https://github.com/linpelvis/carrygo
+https://www.youtube.com/watch?v=AvDIWxpOdK8
 ```
 
 #### Step to Install
