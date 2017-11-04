@@ -86,6 +86,7 @@ ln -s /store/temp/apache-hive-2.1.1-bin /usr/local/hive
 Addition step for install Hive and Hadoop
 
 Read more about Install Hadoop on `http://www.bogotobogo.com/Hadoop/BigData_hadoop_Install_on_ubuntu_16_04_single_node_cluster.php`
+
 Read more about install Hive on `https://hadoop7.wordpress.com/2017/01/27/installing-hive-on-ubuntu-16-04/`
 
 Add to `~/.bashrc`
